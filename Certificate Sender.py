@@ -19,7 +19,7 @@ def main():
     smtp_port = 587
 
     # Define the path to the MLSA logo
-    logo_filename = r"C:\Users\LENOVO\Documents\MLSA Certificate\mlsa_logo_2.png"  # Update this path as needed
+    logo_filename = r"[ENTER THE PATH OF THE LOGO IMAGE]"  # Update this path as needed
 
     with open(csv_file, mode="r") as file:
         csv_reader = csv.DictReader(file)
@@ -40,7 +40,7 @@ def main():
                 msg["Subject"] = f"Completion Certificate for {event_name}"
 
                 # Email body with LinkedIn URL using HTML
-                linkedin_url = "https://www.linkedin.com/in/sreya-e-p-79b915214/"
+                linkedin_url = "[ENTER YOUR LINKEDIN URL]"
                 body = f"""
                 <html>
                 <head></head>
