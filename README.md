@@ -1,4 +1,4 @@
-**Welcome to MLSA Certificate Generator and Sender** 🎓✉️
+# Welcome to MLSA Certificate Generator and Sender** 🎓✉️
 
 The MLSA Certificate Generator and Sender is a simple yet powerful automation tool designed to streamline the process of generating and sending certificates to participants or students. Whether you're organizing events, workshops, or Cloudskills Challenges, this tool simplifies the entire certificate management process.
 
