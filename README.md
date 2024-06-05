@@ -37,5 +37,5 @@ The MLSA Certificate Generator and Sender is a simple yet powerful automation to
 
 With MLSA Certificate Generator and Sender, streamline your certificate management process and focus on delivering exceptional experiences to your participants! 🚀📜
 
-For any assistance or inquiries, feel free to contact us. Happy certifying! 🎉
+For any assistance or inquiries, feel free to contact. Happy certifying! 🎉
 
