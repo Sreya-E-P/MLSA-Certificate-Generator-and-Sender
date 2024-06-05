@@ -1,4 +1,4 @@
-# Welcome to MLSA Certificate Generator and Sender** 🎓✉️
+# Welcome to MLSA Certificate Generator and Sender 🎓✉️
 
 The MLSA Certificate Generator and Sender is a simple yet powerful automation tool designed to streamline the process of generating and sending certificates to participants or students. Whether you're organizing events, workshops, or Cloudskills Challenges, this tool simplifies the entire certificate management process.
 
@@ -26,6 +26,9 @@ The MLSA Certificate Generator and Sender is a simple yet powerful automation to
 
 - **Logo Path**: Update the code in `Certificate Generator.py` with the path of tht logo image.
 - **LinkedIn URL**: Provide your LinkedIn URL in the script for inclusion in the Email.
+
+  ## Demo
+  https://github.com/Sreya-E-P/MLSA-Certificate-Generator-and-Sender/assets/117088162/d8f75266-8719-4f9c-a0df-e008f0558668
 
 ## Notes
 
