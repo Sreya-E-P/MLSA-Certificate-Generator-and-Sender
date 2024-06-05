@@ -24,8 +24,8 @@ The MLSA Certificate Generator and Sender is a simple yet powerful automation to
 
 ## Customization
 
-- **Logo Path**: Update the code in `Certificate Generator.py` with the path to your logo image.
-- **LinkedIn URL**: Provide your LinkedIn URL in the script for inclusion in the certificates.
+- **Logo Path**: Update the code in `Certificate Generator.py` with the path of tht logo image.
+- **LinkedIn URL**: Provide your LinkedIn URL in the script for inclusion in the Email.
 
 ## Notes
 
