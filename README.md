@@ -20,7 +20,7 @@ The MLSA Certificate Generator and Sender is a simple yet powerful automation to
 
 1. **Run the Script**: Simply run `Certificate Generator.py` from the command line or terminal. When prompted, enter the required details. You don't need to enclose file paths in quotation marks.
 
-2. **Choose Certificate Templates**: Ensure you have your certificate templates ready. You can choose the appropriate template when prompted.
+2. **Choose Certificate Templates**: You can choose the appropriate template when prompted.
 
 ## Customization
 
